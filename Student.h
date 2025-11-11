@@ -8,12 +8,17 @@ Student class{
   private:
           int YearLevel;
           string Major;
-  public:
-      Student Display(int YearLevel , string Major){
+  public: 
+       DisplayMajor(string Major){
+this Major -> Major;
+return Major;
+       }
+       Display(int YearLevel , string Major){
         this YearLevel-> YearLevel; 
-        this Major-> Major;
         cout<< "The Yearlevel is : " << YearLevel; 
         cout<< "The Major : " << Major;
+       }
+};
        
        
 
