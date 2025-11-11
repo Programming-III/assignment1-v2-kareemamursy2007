@@ -9,7 +9,12 @@ Student class{
           int YearLevel;
           string Major;
   public:
-      Student Display(int YearLevel , string Major
+      Student Display(int YearLevel , string Major){
+        this YearLevel-> YearLevel; 
+        this Major-> Major;
+        cout<< "The Yearlevel is : " << YearLevel; 
+        cout<< "The Major : " << Major;
+       
        
 
 
