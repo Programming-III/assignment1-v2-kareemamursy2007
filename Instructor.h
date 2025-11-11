@@ -9,8 +9,12 @@ instructor class{
           string department;
           int experienceYears;
   public:
+        Display Department(string department){
+          this department -> department ; 
+          return department;
+        }
+
         Display(string department , int experienceYears){
-        this department -> department;
         this experienceYears -> experienceYears;
         cout << "The department is : " << department ;
         cout << "The experience years are : " << experienceYears;
