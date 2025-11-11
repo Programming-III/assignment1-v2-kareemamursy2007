@@ -14,7 +14,7 @@ instructor class{
           return department;
         }
 
-        Display(string department , int experienceYears){
+        Displayinstructor(string department , int experienceYears){
         this experienceYears -> experienceYears;
         cout << "The department is : " << department ;
         cout << "The experience years are : " << experienceYears;
