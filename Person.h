@@ -12,7 +12,7 @@ DisplayName(string Name){
   this name -> name;
   return name;
 }
-person Display(string Name , int ID){
+ Displayperson(string Name , int ID){
  this Name-> Name ;
 this ID -> ID ; 
 cout<< "The id is : " << ID ;
