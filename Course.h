@@ -4,7 +4,13 @@
 #include <string>
 #include "Student.h"
 using namespace std;
-//#write your code here
+course class{
+  private:
+          string CourseCode;
+          String CourseName;
+          int MaxStudents;
+          Student* Students[];
+          int CurrentStudents;
 
 
 
