@@ -17,8 +17,9 @@ using namespace std;
 
 
 
-// ==================== Student Class Implementation ====================
 
+// ==================== Student Class Implementation ====================
+ 
 
 
 
@@ -42,7 +43,10 @@ using namespace std;
 
 // ==================== Main Function ====================
 int main() {
+   person p1;
+    Student s1 ; 
+   instructor i1;
+   course c1;
    
-    
     return 0;
 }
