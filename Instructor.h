@@ -9,7 +9,7 @@ instructor class{
           string department;
           int experienceYears;
   public:
-        Display Department(string department){
+        DisplayDepartment(string department){
           this department -> department ; 
           return department;
         }
